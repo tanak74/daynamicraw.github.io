@@ -1,0 +1,120 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0 ;
+    left: 0;
+    z-index: 2;
+}
+
+
+/* nav bar */
+.navbar-nav{
+    padding-right: 150px;
+
+}
+.nav-link{
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: medium;
+}
+.navbar-brand{
+    width: 50px;
+    height: 50px;
+    margin-top: -38px;
+}
+.navbar{
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+/* dibawah carosel */
+.dnrblack{
+    position: absolute;
+    left: 840px;
+    top: 1300px;
+}
+
+/* text bawah logo tengah dnr black */
+.dnrblack h1{
+    text-align: center;
+    margin-left: -235px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+.dnr1{
+    margin-left: 213px;
+    margin-top: 600px;
+}
+.p1{
+    margin-left: 213px;
+    margin-top: 100px;
+    width: 920px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.035em;
+
+}
+.p2{
+    margin-left: 213px;
+    margin-top: 35px;
+    width: 920px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.035em;
+
+}
+
+/* bar pertama */
+.bar1{
+    position: absolute;
+    top: 2500px;
+}
+
+/* bawah bar pertama */
+.wedding1{
+    position: absolute;
+    top: 3000px;
+    left: 404px;
+}
+.text {
+    position: absolute;
+    width: 1152px;
+    height: 628px;
+    left: 268px;
+    top: 4150px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.035em;
+}
+
+
+/* bar 2 */
+.bar2 {
+    position: absolute;
+    top: 5200px;
+}
+.chaty{
+    position: absolute;
+    top: 5700px;
+    left: 404px;
+}

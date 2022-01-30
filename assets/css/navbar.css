@@ -1,0 +1,27 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0 ;
+    left: 0;
+    z-index: 2;
+}
+
+
+/* nav bar */
+.navbar-nav{
+    padding-right: 150px;
+
+}
+.nav-link{
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: medium;
+}
+.navbar-brand{
+    width: 50px;
+    height: 50px;
+    margin-top: -38px;
+}
+.navbar{
+    background-color: transparent;
+}
